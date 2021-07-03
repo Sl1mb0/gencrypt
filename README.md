@@ -14,7 +14,8 @@
 
 # About
 
-This is another demoscene project, similar to [Kartina](https://github.com/Sl1mb0); music is played in the background, while an image is rendered.  
+This is another demoscene project, similar to [Kartina](https://github.com/Sl1mb0);   
+music is played in the background, while an image is rendered.  
 There is a secret word displayed at the end, that can only be seen by viewing the entire rendering.
 
 # Goals
@@ -29,10 +30,10 @@ There is a secret word displayed at the end, that can only be seen by viewing th
 
 # How It Works
 
-TODO: discuss playing music and rendering using mult-threading
-TODO: discuss gpu-shader stuff
-TODO: discuss drawing words with vertices
-TODO: discuss matrix transformations
+TODO: discuss playing music and rendering using mult-threading  
+TODO: discuss gpu-shader stuff  
+TODO: discuss drawing words with vertices  
+TODO: discuss matrix transformations  
 
 # Testing 
 
